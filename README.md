@@ -22,7 +22,6 @@ Currently NANS project supports Android 5.1.1(Lollipop).
 - Supports individual stacks for each display.
 - Supports Full HD Projection.
 
-
 ## For a Quick Start
 Those who want to quickly start to see and experience NANS platform with Nexus 5, please see this project's Wiki, [Quick Start Guide](https://github.com/rubis-lab/NANS_Project_for_Android/wiki/0.-Quick-Start-Guide).
 
